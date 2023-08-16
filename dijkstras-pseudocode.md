@@ -1,3 +1,4 @@
+```
  1  function Dijkstra(Graph, source):
  2      
  3      for each vertex v in Graph.Vertices:
@@ -17,3 +18,4 @@
 17                  prev[v] ← u
 18
 19      return dist[], prev[]
+```
